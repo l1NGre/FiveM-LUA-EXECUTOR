@@ -10,3 +10,4 @@ Lua isolated and Select Resource | Esp | AimBot | Blocker Resources and Events |
 
 ![image](https://github.com/stenkenj/lua-executor-by-tiago/assets/159486539/e18c62ba-7427-4434-9ab3-e437e8e6c3ff)
 
+![image](https://github.com/user-attachments/assets/95c6d596-e3df-43bd-9986-ee862208062f)
